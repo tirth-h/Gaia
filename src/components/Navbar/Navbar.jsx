@@ -21,9 +21,9 @@ const Navbar = () => {
       <li className="p__opensans"><a href="#contact">Contact</a></li>
     </ul>
     <div className="app__navbar-login">
-      <a href="#login" className="p__opensans">Log In / Register</a>
+      <a href="#login" className="p__opensans">Our NewsLetter</a>
       <div />
-      <a href="/" className="p__opensans">Book table</a>
+      <a href="/" className="p__opensans">Book a table</a>
     </div>
     <div className="app__navber-smallscreen">
       <GiHamburgerMenu color="#fff" fontSize={27} onClick={()=>setToggleMenu(true)} />
