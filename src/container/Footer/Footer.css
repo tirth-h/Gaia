@@ -1,3 +1,9 @@
+.headr{
+    color: var(--color-white);
+    font-weight: lighter;
+    font-size: 32px;
+}
+
 .app__footer {
     width: 100%;
     position: relative;

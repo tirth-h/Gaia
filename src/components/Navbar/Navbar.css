@@ -13,6 +13,13 @@
     align-items: center;
 }
 
+.logo{
+    font-weight: bold ;
+    color: var(--color-golden);
+    font-size: 42px;
+    padding-left: 60px;
+}
+
 .app__navbar-logo img{
     width: 150px;
 }
